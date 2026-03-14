@@ -19,7 +19,7 @@ zip -r test_dir.zip test_dir
 unzip test_dir.zip -d unzipped_dir
 
 # 5. Downloading Files
-wget -q https://example.com/index.html -O sample.txt
+wget -q https://sample-files.com/downloads/documents/txt/simple.txt 
 
 # 6. Changing Permissions
 touch secure.txt
